@@ -2,7 +2,7 @@
   "name": "ST Checklist PM",
   "short_name": "ST PM",
   "description": "Shani Tal Periodic Maintenance Checklist",
-  "start_url": "/US_Checklist_PM_rev_3.html",
+  "start_url": "/Final_PM_Checklist/US_Checklist_PM_rev_3.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#1e3a5f",
