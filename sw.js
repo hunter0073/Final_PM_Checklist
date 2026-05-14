@@ -1,6 +1,6 @@
 const CACHE_NAME = 'st-pm-v1';
 const FILES_TO_CACHE = [
-  '/Final_PM_Checklist/US_Checklist_PM_rev_3.html',
+  '/Final_PM_Checklist/US_Checklist_PM_rev_6.html',
   '/icon.png',
   '/manifest.json'
 ];
